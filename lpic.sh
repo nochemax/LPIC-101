@@ -2,7 +2,6 @@
 
 # Crador David Soto Noche
 # Fecha 6.7.2019
-# Licencia Open soft GNU
 # Nombre LPIC-101
 # Tipo lenguaje Script shell
 
